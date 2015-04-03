@@ -1,0 +1,361 @@
+(msn,EZB)	-0.018414284767849103	14
+(msn,IWF)	-0.09516578724019621	19
+(msn,ERGO Direkt)	0.1463279989361763	25
+(msn,ERGO Direkt Individuelle Zahnvorsorge)	0.0	11
+(ntv,EU)	0.008326189525957619	21
+(ntv,AMD)	-0.26629166686325334	16
+(ntv,CDU)	0.03204615328174371	13
+(ntv,IWF)	-0.11475833449124669	12
+(ntv,Europäische Union)	0.04447368414778458	19
+(cash,IWF)	-0.06576805338651563	12
+(Stern,EU)	0.05236638280547271	59
+(Stern,CDU)	-0.013040000634888808	15
+(Stern,FDP)	0.07834563378451599	18
+(Stern,SPD)	-0.1808000016026199	12
+(Stern,USA)	-0.11932691852920331	13
+(Stern,Europäische Union)	0.0031474492683702584	49
+(Stern,Europäischen Union)	0.03324078876329096	19
+(LifePR,EAS)	0.059672726021910254	11
+(SF DRS,EU)	-0.025884847537699072	11
+(a-z.ch,SVP)	0.031153921448789975	17
+(7er.com,BMW)	0.08392531553132308	37
+(Freitag,EEG)	-0.034211110349537596	18
+(OnVista,EZB)	-0.03800769057124853	13
+(OnVista,IWF)	-0.10411888603121042	15
+(OnVista,WKN)	0.006843749911058694	80
+(OnVista,ISIN)	-3.333355610569318E-5	60
+(OnVista,SAP AG)	3.333333491658171E-4	12
+(OnVista,Société Générale)	0.0014545455236326563	11
+(20min-ch,Flash Player)	-0.062351281790492624	13
+(euronews,EU)	0.0839115371569418	13
+(Die Harke,EU)	0.03452356437478086	29
+(Die Harke,CDU)	0.11038749951070972	14
+(Die Harke,EZB)	-0.046599998604506254	11
+(Die Harke,Lufthansa)	-0.06554999908742805	12
+(Die Harke,Europäische Union)	0.021194790431763977	16
+(Eurosport,Eurosport)	0.03411666637596985	12
+(FORMAT.at,ATX)	0.0037333335106571517	15
+(FORMAT.at,SMI)	0.004000000189989805	16
+(Kurier.at,EU)	-0.008511539369534988	13
+(RP Online,RPO)	0.0	53
+(morgenweb,Europäische Union)	-0.05326666931311289	15
+(rgaonline,EZB)	0.048803572044042606	14
+(Die Glocke,EU)	-0.05663484787907113	11
+(Die Presse,EU)	-0.0068870366602722145	18
+(Die Presse,IWF)	-0.052811364219947296	22
+(Die Presse,USA)	-0.043696429763388424	14
+(Die Presse,AUVA)	0.008211110501239698	15
+(Die Presse,SPÖ)	-0.03486000089906156	30
+(LVZ-Online,EU)	0.13029999774880707	18
+(Nordkurier,EU)	-0.022641666990239173	12
+(Nordkurier,CDU)	0.009453124774154276	16
+(Nordkurier,SPD)	0.019076470888274556	17
+(PresseEcho,BMW)	-0.12516667022525022	12
+(Reuters.de,IWF)	-0.01658529445857686	17
+(Südkurier,VfB Friedrichshafen)	3.333333491658171E-4	12
+(ka-news.de,EU)	0.02661519872901194	17
+(ka-news.de,EZB)	-0.012049999589530321	13
+(ka-news.de,Europäische Union)	-0.01503939325497909	11
+(news4press,BMW)	-0.12516667022525022	12
+(news4press,NAV)	0.04101922986312555	13
+(paz-online,EU)	-0.08955518157548599	37
+(paz-online,Europäische Union)	-0.0643764721120105	17
+(AD HOC NEWS,EU)	0.018355462855348986	63
+(AD HOC NEWS,ARD)	-0.016187499277293682	16
+(AD HOC NEWS,BBB)	-0.07217646784642164	17
+(AD HOC NEWS,CDU)	0.006523912357490348	46
+(AD HOC NEWS,CSU)	-0.04800416642683558	16
+(AD HOC NEWS,EUR)	-0.005358928997468736	28
+(AD HOC NEWS,EZB)	-0.04029333242215216	30
+(AD HOC NEWS,FDP)	-0.07093448400625894	29
+(AD HOC NEWS,IWF)	-0.08295249922666699	20
+(AD HOC NEWS,RSS)	1.0810811324296771E-4	37
+(AD HOC NEWS,SPD)	-0.06317045719532127	22
+(AD HOC NEWS,USA)	-0.09493922381661832	30
+(AD HOC NEWS,VPS)	-0.027440740261226892	18
+(AD HOC NEWS,WKN)	-0.07201666663750075	20
+(AD HOC NEWS,EADS)	-0.043622223298168845	18
+(AD HOC NEWS,Lufthansa 2)	0.028715151658451014	11
+(AD HOC NEWS,Standard & Poor)	-0.055374997396332525	12
+(AD HOC NEWS,Europäische Union)	2.0499930251389743E-4	40
+(AD HOC NEWS,Europäischen Union)	-0.05975758233530955	11
+(AD HOC NEWS,Europäischen Zentralbank)	-0.08252646880881752	17
+(AD HOC NEWS,Deutsche Textservice Nachrichtenagentur GmbH)	0.0	21
+(Der Patriot,CDU)	-0.04000757990235632	11
+(Donaukurier,CDU)	0.0296461540990724	13
+(Donaukurier,CSU)	-0.024541385006159544	12
+(Fonds Check,WKN)	0.0018181819045408206	11
+(Frankenpost,EU)	-0.007805681660432707	22
+(Neue Presse,EU)	0.08623636234551668	11
+(Neue Presse,CDU)	0.03683541648206301	16
+(Stock World,WKN)	0.01621568698764724	17
+(Stock World,ISIN)	0.01621568698764724	17
+(Stock World,BHS tabletop AG)	2.222222327772114E-4	18
+(WELT ONLINE,EU)	0.02264726103416511	35
+(WELT ONLINE,CDU)	0.05232500037527643	16
+(WELT ONLINE,SPD)	-0.11732857794101749	14
+(WELT ONLINE,Europäische Union)	0.013061110706379017	36
+(ZEIT ONLINE,EU)	0.006497142344181027	35
+(ZEIT ONLINE,FDP)	-0.06842888761311769	15
+(ZEIT ONLINE,USA)	0.0011576912007652796	13
+(ZEIT ONLINE,Europäische Union)	0.0013684202720852274	19
+(freiepresse,CDU)	0.02248243267673093	37
+(freiepresse,FDP)	0.0025296889944002032	16
+(freiepresse,SPD)	-0.030143590572361764	13
+(medianet.at,ORF)	-0.10483333169637869	12
+(Aktien Check,BP)	-0.12066110404622224	18
+(Aktien Check,WKN)	0.002400000113993883	15
+(FOCUS Online,EU)	0.045289537666286246	94
+(FOCUS Online,TK)	0.11872463798879282	23
+(FOCUS Online,AMD)	-0.1714533348334953	20
+(FOCUS Online,ARD)	-0.007376922867619074	13
+(FOCUS Online,CDU)	0.07013235265827354	17
+(FOCUS Online,CSU)	-0.05719999778507785	11
+(FOCUS Online,EZB)	-0.020656248671002686	12
+(FOCUS Online,FDP)	-0.02281818107109178	11
+(FOCUS Online,IWF)	-0.0846578930749705	19
+(FOCUS Online,RSS)	0.004000000189989805	34
+(FOCUS Online,USA)	-0.17388055151483664	18
+(FOCUS Online,ZDF)	0.0829903507654212	19
+(FOCUS Online,Europäische Union)	0.06202252465991838	101
+(FOCUS Online,Europäischen Union)	0.018778947525118526	19
+(FOCUS Online,Journalistin Tawakkul Karman)	0.0	13
+(Java Magazin,XWT)	0.028905555554148223	18
+(Kreiszeitung,dpa)	0.0	14
+(Weser Kurier,EU)	0.052773077542392105	13
+(Weser Kurier,CDU)	0.01031904849445536	21
+(Weser Kurier,SPD)	-0.03479411903604427	17
+(Weser Kurier,Europäische Union)	8.708326786290854E-4	16
+(airliners.de,Lufthansa)	-0.06940625078277662	16
+(finanzen.net,AMD)	-0.08267916700181861	12
+(finanzen.net,BPE)	0.029183332303849358	12
+(finanzen.net,DAX)	-0.1875296331062499	18
+(finanzen.net,EDT)	-0.03296842151566556	19
+(finanzen.net,EZB)	0.00839531366364099	16
+(finanzen.net,Dow Jones & Company)	0.0	11
+(inFranken.de,HSC)	-0.04136154014402284	13
+(inFranken.de,Brose Baskets)	0.050219442881643775	15
+(news aktuell,TK)	-0.008744445396587253	12
+(news aktuell,EEG)	-0.012719998989875117	15
+(news aktuell,BLÄK)	0.006058333286394675	12
+(news aktuell,BHS tabletop AG)	2.3529412882292971E-4	17
+(news aktuell,Heiler Software AG)	0.0	15
+(news aktuell,Statistischen Bundesamtes)	0.003272727428173477	11
+(Computer Bild,Amazon Kindle Fire HD)	0.04018888788090812	18
+(Der Aktionär,AMD)	-0.13888485399498182	11
+(Der Aktionär,GMT)	-0.037963636896827004	11
+(Der Aktionär,SAP AG)	2.222222327772114E-4	36
+(Der Aktionär,Listed Company)	0.0	15
+(Financiallife,TK)	-0.008744445396587253	12
+(Financiallife,BLÄK)	0.006058333286394675	12
+(Money Special,EUR)	-0.012126923610384647	26
+(Money Special,SYGNIS Pharma AG)	0.0	16
+(Ostseezeitung,EU)	0.04736249977334713	24
+(Ostseezeitung,WM)	-0.007499997410923243	15
+(Ostseezeitung,CDU)	0.09336617687607512	17
+(Ostseezeitung,SPD)	-0.04127500051011642	12
+(Ostseezeitung,ZDF)	0.08614999800920486	12
+(Ostseezeitung,Europäische Union)	0.05355476162263325	14
+(Ostseezeitung,FC Bayern München)	0.08802000414580106	15
+(futurezone.at,AMD)	-0.1353277782909572	12
+(Deutsche Welle,EU)	0.027367899461683852	27
+(Deutsche Welle,AKW)	0.06528055341914296	12
+(Deutsche Welle,Europäische Union)	-0.009015195318223798	17
+(Finanztreff.de,EZB)	0.0014194458619587952	18
+(Finanztreff.de,Deutsche Bank AG)	0.01884242540902712	22
+(GMX Portal(at),APA)	0.0	16
+(Kleine Zeitung,EU)	-0.03586250252556056	16
+(agrarheute.com,USDA)	0.03073203086387366	32
+(Ärzte Zeitung,GKV)	0.017524545080959797	11
+(Nordsee Zeitung,EU)	0.07727631455973576	19
+(Nordsee Zeitung,CDU)	-0.0028136357326399197	11
+(Ruhrnachrichten,EU)	0.08112499868083331	18
+(Ruhrnachrichten,CDU)	-0.03263750063100209	12
+(Ruhrnachrichten,Europäische Union)	0.024890908421101896	11
+(midrangemagazin,IBM)	0.013362083554966375	16
+(sueddeutsche.de,EU)	0.056673561945429135	29
+(sueddeutsche.de,Europäische Union)	0.03511449267439868	23
+(vdi-nachrichten,VDI)	2.0000000949949026E-4	20
+(westfalen-blatt,EU)	0.07301249881274999	20
+(westfalen-blatt,Europäische Union)	-0.011057143831359488	14
+(Berliner Zeitung,BE)	0.00862249955534935	20
+(Berliner Zeitung,EU)	-0.054316950142107336	118
+(Berliner Zeitung,FR)	-0.11003035681954186	56
+(Berliner Zeitung,CDU)	0.009076119706368268	67
+(Berliner Zeitung,SPD)	-0.29801666736602783	12
+(Berliner Zeitung,USA)	-0.003766666321704785	18
+(Berliner Zeitung,Riva Verlag)	0.004050000105053186	38
+(Berliner Zeitung,Hells Angels)	0.0	19
+(Berliner Zeitung,Gutenbergschule)	0.0	19
+(Berliner Zeitung,Europäische Union)	0.05212136806528035	95
+(Berliner Zeitung,Europäischen Union)	0.006161176124770267	51
+(Berliner Zeitung,Frankfurter Buchmesse)	0.004000000189989805	11
+(Berliner Zeitung,SPD Thorsten Schäfer-Gümbel)	0.0	19
+(Berliner Zeitung,Verlag Goodword Books Neu Delhi)	0.0	19
+(Berliner Zeitung,Schönes Mädchen Kriegerin Sailor Moon)	0.0	19
+(Businessportal24,BMW)	-0.12516667022525022	12
+(Die Tageszeitung,EU)	0.1098320520697878	13
+(Nordwest-Zeitung,EU)	0.025941668967293066	22
+(Nordwest-Zeitung,CDU)	0.06325833243317902	12
+(Wirtschaftswoche,EU)	-0.03901212047221082	33
+(Wirtschaftswoche,AMD)	-0.2531166651751846	14
+(Wirtschaftswoche,IWF)	-0.06439242046326399	11
+(Wirtschaftswoche,Europäische Union)	-0.0017613630149174821	22
+(premiumpresse.de,BMW)	-0.12516667022525022	12
+(premiumpresse.de,EAS)	0.059672726021910254	11
+(premiumpresse.de,NAV)	0.02813999991243084	15
+(premiumpresse.de,Microsoft Dynamics)	0.02087272631681778	11
+(premiumpresse.de,NEWE Real Estate & Energy GmbH)	0.04761785574789558	14
+(Cellesche Zeitung,EU)	0.026407292364941288	24
+(Deutschland Radio,EU)	-0.003570831846445799	12
+(Deutschland Radio,AKW)	-0.015583928707720978	14
+(Deutschland Radio,Europäische Union)	0.060062499872098364	12
+(Uni-protokolle.de,HPI)	0.0033321428511823925	14
+(Uni-protokolle.de,KIT)	0.0017142857957099164	14
+(Wallstreet Online,TK)	-0.008071795750695925	13
+(Wallstreet Online,BPE)	0.02693846058816864	13
+(Wallstreet Online,CHF)	8.571428978549582E-4	14
+(Wallstreet Online,DAX)	-0.16300980628961148	17
+(Wallstreet Online,EUR)	0.004739999771118164	15
+(Wallstreet Online,UBS)	2.8571429928498607E-4	14
+(Wallstreet Online,USD)	-0.04241499910131097	20
+(Wallstreet Online,WKN)	0.0032888890017528792	111
+(Wallstreet Online,ISIN)	-0.002543459404731476	79
+(Wallstreet Online,BNP Paribas)	0.01664761910658507	21
+(Wallstreet Online,RBC Capital Markets)	0.0	14
+(Wallstreet Online,Société Générale)	-0.015099999029189348	11
+(Wallstreet Online,GOLDINVEST Media GmbH)	-0.03226666649182638	12
+(Zertifikate Check,WKN)	0.010481597351220747	24
+(Zertifikate Check,ISIN)	0.012397807140491511	19
+(channelpartner.de,AMD)	-0.25210303343324497	11
+(Innovations Report,United States)	0.0	11
+(Kieler Nachrichten,EU)	0.07938333216588944	12
+(Neue Presse Coburg,EU)	-0.017214392833976133	33
+(Yahoo! Nachrichten,EU)	0.04749734987589446	11
+(Yahoo! Nachrichten,CDU)	0.015133333470051488	12
+(Berliner Morgenpost,FDP)	-0.040648483226753095	11
+(Lausitzer Rundschau,CDU)	0.1253363648429513	11
+(Lausitzer Rundschau,IWF)	-0.06159090724858371	11
+(Schwarzwälder Bote,EU)	0.014408928951958106	42
+(Schwarzwälder Bote,CDU)	0.02906874829204753	16
+(Schwarzwälder Bote,Europäische Union)	0.01174999906145262	33
+(Stuttgarter Zeitung,CDU)	0.006787500615852575	12
+(inSüdthüringen.de,CDU)	-0.041950001148507	12
+(Alsfelder Allgemeine,CDU)	-0.01151818401095542	11
+(Hamburger Abendblatt,EU)	0.02844090996818109	11
+(Hamburger Abendblatt,CDU)	0.02513035706111363	14
+(Kölnische Rundschau,EU)	0.03556363663466817	11
+(Kölnische Rundschau,CDU)	-0.013236364011060108	11
+(Münsterland Zeitung,EU)	0.09891052526961032	19
+(Münsterland Zeitung,CDU)	-0.023928125447127968	16
+(Münsterland Zeitung,IWF)	-0.11551538170673527	13
+(Oberhessische Presse,EU)	-0.05820185396199425	18
+(Oberhessische Presse,Europäische Union)	-0.08877636593851176	11
+(Optionsscheine Check,DAX)	-0.02909999975765293	11
+(Optionsscheine Check,WKN)	-0.014538094445708253	63
+(Optionsscheine Check,ISIN)	-0.008299106449287916	56
+(Passauer Neue Presse,EU)	0.06583627425682019	34
+(Passauer Neue Presse,Europäische Union)	-0.007801755110880262	19
+(Rhein-Neckar-Zeitung,EU)	0.07321249882224948	20
+(Rhein-Neckar-Zeitung,Europäische Union)	0.0019937492324970663	16
+(Schwäbische Zeitung,CDU)	0.0026243906695304848	41
+(Schwäbische Zeitung,CSU)	-0.15462499863601156	14
+(Schwäbische Zeitung,FDP)	-0.0501055559143424	18
+(Schwäbische Zeitung,TSG)	0.1403166651725769	12
+(Zürcher Oberländer,FCOP)	0.0	16
+(Zürcher Oberländer,Croatia)	0.0	16
+(Zürcher Oberländer,FC Wald)	0.0	16
+(Zürcher Oberländer,Battaglia)	0.0	13
+(Zürcher Oberländer,FC Bülach)	0.0	12
+(Zürcher Oberländer,FC Rüti 2)	0.0	14
+(Zürcher Oberländer,FC Gossau 2)	0.0	15
+(Zürcher Oberländer,Battaglia St.)	0.0	14
+(Zürcher Oberländer,FC Pfäffikon)	0.0	11
+(Zürcher Oberländer,EHC Dübendorf)	0.0	11
+(Frankfurter Rundschau,BE)	0.0	11
+(Frankfurter Rundschau,EU)	-0.04479401134085492	64
+(Frankfurter Rundschau,FR)	-0.10809999968235691	33
+(Frankfurter Rundschau,CDU)	0.012429114048003773	79
+(Frankfurter Rundschau,EPO)	0.0010909091427244923	11
+(Frankfurter Rundschau,IWF)	-0.22459999530110508	14
+(Frankfurter Rundschau,SPD)	-0.10702826097891059	23
+(Frankfurter Rundschau,USA)	-0.03007058582871276	17
+(Frankfurter Rundschau,Riva Verlag)	0.004050000105053186	22
+(Frankfurter Rundschau,Gutenbergschule)	0.0	11
+(Frankfurter Rundschau,Europäische Union)	0.050261099725030366	100
+(Frankfurter Rundschau,Europäischen Union)	0.010905713782579238	56
+(Frankfurter Rundschau,SPD Thorsten Schäfer-Gümbel)	0.0	11
+(Frankfurter Rundschau,Verlag Goodword Books Neu Delhi)	0.0	11
+(Lübecker Nachrichten,EU)	0.015436667359123628	15
+(Lübecker Nachrichten,ZDF)	0.04922857029097421	14
+(Lübecker Nachrichten,Europäische Union)	0.03938055535157522	12
+(Ostthüringer Zeitung,EU)	0.020236184281346044	19
+(Ostthüringer Zeitung,CDU)	0.030823075857300024	13
+(Ostthüringer Zeitung,SPD)	-0.008254545783116058	11
+(Thüringer Allgemeine,CDU)	-0.030754166189581156	12
+(Thüringer Allgemeine,SPD)	-0.08794545458460395	11
+(Braunschweiger Zeitung,EU)	0.12902142629692598	14
+(Kölner Stadt Anzeiger,CDU)	-0.045195370899616845	18
+(Kölner Stadt Anzeiger,FDP)	-0.018302221441020568	15
+(Kölner Stadt Anzeiger,FC Köln)	0.0	14
+(Kölner Stadt Anzeiger,Boxklub SC Colonia)	0.0	13
+(Mitteldeutsche Zeitung,MZ)	0.0	14
+(Mitteldeutsche Zeitung,Toyota)	-0.04165454615246166	11
+(Südwest Presse Online,EU)	0.05801388988685277	18
+(Südwest Presse Online,CDU)	0.009442856114002921	21
+(Südwest Presse Online,EUR)	-3.818181682039391E-4	11
+(Südwest Presse Online,EZB)	-0.014278124348493293	16
+(Südwest Presse Online,IWF)	-0.07903684011513465	19
+(Südwest Presse Online,SPD)	-0.11484230950904581	13
+(Weinheimer Nachrichten,EU)	0.027443751227110624	16
+(Wolfsburger Allgemeine,EU)	-0.08955518157548599	37
+(Wolfsburger Allgemeine,CDU)	0.022292425263334404	11
+(Wolfsburger Allgemeine,Europäische Union)	-0.0643764721120105	17
+(Frankfurter Neue Presse,EU)	0.026191025596255295	26
+(Frankfurter Neue Presse,AMD)	-0.25210303343324497	11
+(Frankfurter Neue Presse,CDU)	0.03784843810717575	16
+(Frankfurter Neue Presse,SPD)	0.012009090701626106	11
+(Frankfurter Neue Presse,Europäische Union)	-0.016435556610425315	15
+(Magdeburger Volksstimme,EU)	0.10373214113393	14
+(Offenes-Presseportal.de,TK)	-0.008744445396587253	12
+(Schweriner Volkszeitung,GSC)	-0.0056171871547121555	16
+(Stuttgarter Nachrichten,EU)	0.07938333216588944	12
+(Westdeutsche Allgemeine,EU)	0.017214813450765278	18
+(Westdeutsche Allgemeine,BMW)	0.1475363643416627	11
+(Westdeutsche Allgemeine,CDU)	0.008514815618077086	36
+(Westdeutsche Allgemeine,FDP)	-0.019400360649856535	23
+(Westdeutsche Allgemeine,SPD)	-0.009307780163362622	30
+(Westdeutsche Allgemeine,UCI)	5.14285738712975E-4	14
+(Westdeutsche Allgemeine,WAZ)	-0.012472221912402246	18
+(Westdeutsche Allgemeine,IG Metall)	-0.026066665498850245	12
+(Westdeutsche Allgemeine,Europäische Union)	0.07295555288523987	27
+(Westdeutsche Allgemeine,Europäischen Union)	0.03632727303457531	11
+(Independent Media Center,JN)	0.011412499971421701	14
+(Lippische Landes-Zeitung,EU)	0.09126562351593748	16
+(Schaumburger Nachrichten,EU)	0.046946665396293004	15
+(Schaumburger Nachrichten,AWS)	-0.03893077051123747	13
+(Schaumburger Nachrichten,CDU)	-0.007275640176465878	13
+(Schaumburger Nachrichten,DSD)	0.020274999163423974	12
+(Neue Osnabrücker Zeitung,IWF)	-0.1417888859907786	15
+(Waldeckische Landeszeitung,EU)	-0.08955518157548599	37
+(Waldeckische Landeszeitung,Europäische Union)	-0.0643764721120105	17
+(Österreichischer Rundfunk,ORF)	-1.311475472127805E-5	61
+(Österreichischer Rundfunk,SPÖ)	-0.0901045461862602	11
+(Österreichischer Rundfunk,ÖVP)	-0.07667727167294784	11
+(Financial Times Deutschland,EU)	0.06844516018886239	31
+(Financial Times Deutschland,Europäische Union)	0.02419999983304968	13
+(Thüringische Landeszeitung,USA)	-0.062918750802055	16
+(Westdeutsche Zeitung newsline,EU)	0.053737500604862966	12
+(Westdeutsche Zeitung newsline,CDU)	0.049170455006374555	11
+(Westdeutsche Zeitung newsline,Europäische Union)	0.01267111049965024	15
+(Frankfurter Allgemeine Zeitung,EU)	-0.019258643172819306	27
+(Täglicher Anzeiger Holzminden,AFP)	1.481481551848076E-4	27
+(Hannoversche Allgemeine Zeitung,EU)	-0.009881028905510902	47
+(Hannoversche Allgemeine Zeitung,CDU)	0.03227572531803795	23
+(Hannoversche Allgemeine Zeitung,IWF)	-0.08432727040384304	11
+(Hannoversche Allgemeine Zeitung,UCI)	-0.028000000941877563	12
+(Hannoversche Allgemeine Zeitung,Europäische Union)	-0.05705111243185543	21
+(Hildesheimer Allgemeine Zeitung,EU)	0.02136071472029601	21
+(Informationsdienst Wissenschaft,KIT)	0.001600000075995922	15
+(Informationsdienst Wissenschaft,TU Berlin)	0.023545833847795922	12
+(Informationsdienst Wissenschaft,Hochschule)	0.008541666980211934	12
