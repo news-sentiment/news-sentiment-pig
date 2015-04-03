@@ -17,7 +17,7 @@ git clone https://github.com/news-sentiment/news-sentiment-pig.git
 cd news-sentiment-pig
 mvn clean package
 ```
-_news-sentiment-pig is now installed in `news-sentiment-pig/target`
+_news-sentiment-pig_ is now installed in `news-sentiment-pig/target`
 
 ### Maven dependency
 ```shell
@@ -25,7 +25,7 @@ git clone https://github.com/news-sentiment/news-sentiment-pig.git
 cd news-sentiment-pig
 mvn clean install
 ```
-_news-sentiment-pig is now installed in your local maven repository.
+_news-sentiment-pig_ is now installed in your local maven repository.
 
 ```xml
 <dependency>
