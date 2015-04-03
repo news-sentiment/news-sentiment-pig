@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/news-sentiment/news-sentiment-pig.svg?branch=master)](https://travis-ci.org/news-sentiment/news-sentiment-pig)
+
 # Sentiment Analysis on Newspapers
 Developement of a newspaper sentiment analyzer in Apache Pig
 
